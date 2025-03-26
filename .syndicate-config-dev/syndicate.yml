@@ -1,0 +1,16 @@
+account_id: '890742610830'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-6675/b3cf9707/task09
+expiration: 2025-03-26 10:46:35.849255+00:00
+extended_prefix_mode: true
+project_path: C:\Users\varun_mishra1\Desktop\work\synd\syndicate
+region: eu-west-1
+resources_prefix: cmtr-b3cf9707-
+tags:
+  run_id: JAP-11
+  run_type: stm
+  type: user
+  user_id: b3cf9707
+temp_aws_access_key_id: ASIA46ZDFTOHNL27DLFX
+temp_aws_secret_access_key: GLtbd+0VF1VbVl4SzZb9sD8QTrB7j1aB4ZK2wP8F
+temp_aws_session_token: IQoJb3JpZ2luX2VjEML//////////wEaCXVzLWVhc3QtMSJGMEQCICgoI3vSGTSmWV3WlvfWxbZTHmGXf6IsyEi67DLu09C2AiAYH+tzA2ZtbIRfhVO3G167l7vBLWmUHsxKKmtkZQetsyrWAggrEAAaDDg5MDc0MjYxMDgzMCIMZSt0etVLo5/gO2kgKrMCHyN869UxlRbhv/OOSWcuJLLdMalsvrsB9B/UlCNVVusdD9gzgubGqSxf1r9WjE9oYmcDaPOoH7zDvS7BAfq10BQonAggFkYd5KCZB3uON5cawms1boerH+H/B0GgJP5F+Er/9COiu2hJzkB7GBs6VDDxL5/1rqDUte1wCQ2ihjPHtvrAn2h1NLIC2yDWaSxe+jsucn13zklcUzy3NBNoDpYYPZFfujMYc8ffo/1EqQiYZU8b9K+FQvHt6ewiIOFq1j4xmXKn0AekyJ9zQfYlplGhKo0o39XzaBos+JBRgFmi7IEHJZ/LxNP4VvlY6Rh+pcg9lVtyVVdPyefaJHdCR0pBRnWoDkaCJCvXnnDYDgRjbTh5XBrvWUwWdGdq0AmIcOGaYx+xbGkJ8IExSLdo78JMGDDIno+/BjqeAYikaBjvAQKx2DU/ed0wKGj9CHnWA2TJQbfuLlsUUjCcWb7J3eE/9TWs6TUd2CcnIFbjbLNT7Znd7j+IEIcwaV9evXZ9g5M5JvYr7BCmK4VOz8PAiPRpY4A7MRYZiDmWCq47KSOK/ZnxlmPaGVqP2KsAVzbWdK1l/pkcUp1eVzklAgXFE+s/ZnCDe2q7iDzNbMIDF72GkCLiiGfNPiJ3
+use_temp_creds: false
